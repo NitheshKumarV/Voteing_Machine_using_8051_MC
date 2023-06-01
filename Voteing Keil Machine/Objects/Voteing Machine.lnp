@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Voteing_Machine.obj" 
+TO ".\Objects\Voteing Machine" 
+PRINT(".\Listings\Voteing Machine.m51")
